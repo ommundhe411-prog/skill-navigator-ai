@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the Skill Bridge frontend data-driven within the index route until persistent accounts or storage are requested, so its demo interactions stay simple and deployment-safe.
