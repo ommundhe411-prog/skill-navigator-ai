@@ -10,3 +10,4 @@
 <!-- LOVABLE:END -->
 
 - Keep the Skill Bridge frontend data-driven within the index route until persistent accounts or storage are requested, so its demo interactions stay simple and deployment-safe.
+- Route all Skill Bridge AI assessments through a public TanStack server function and a server-only Lovable AI Gateway client, so prompts and credentials never reach the browser.
